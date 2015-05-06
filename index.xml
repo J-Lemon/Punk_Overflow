@@ -52,7 +52,7 @@ Anche io ho partecipato, nonstante il travagliato sviluppo della mia applicazion
 &lt;p&gt;Ed è propio Mario lo sfortunato &amp;ldquo;italiano&amp;rdquo; di questa vicenda.&lt;/br&gt;
 Il mio &amp;ldquo;esperimento&amp;rdquo;, faccio fatica a chiamarlo così visto che fa sembrare Mario quasi una cavia, consiste nell&amp;rsquo;interazione fra Arduino e videogioco.&lt;/br&gt;
 Mi sono servito di un Arduino nano (precisamente la versione 3.1 con l&amp;rsquo;ATmega328) e una fotoresistenza per creare una semplice animazione.&lt;/br&gt;
-Se il sensore non è comperto nel mondo di Mario ci sarà bel tempo, altrimenti, garantiremo una bella doccia giacciata al nostro sfortunato idraulico baffuto.&lt;/br&gt;
+Se il sensore non è coperto nel mondo di Mario ci sarà bel tempo, altrimenti, garantiremo una bella doccia ghiacciata al nostro sfortunato idraulico baffuto.&lt;/br&gt;
 Per la parte software mi sono affidato a &lt;a href=&#34;https://github.com/biomood/LuaSerial&#34;&gt;LuaSerial&lt;/a&gt; per la comunicazione
 fra Arduino e Lua e &lt;a href=&#34;https://love2d.org&#34;&gt;Love2D&lt;/a&gt; per la parte grafica.&lt;/br&gt;&lt;/p&gt;
 
