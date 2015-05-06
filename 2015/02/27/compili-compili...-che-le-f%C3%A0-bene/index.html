@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Compili, compili... Che le fà bene! &middot; Punk Overflow!
+    
+  </title>
+
+  
+  <link rel="stylesheet" href="http://j-lemon.github.io/Punk_Overflow/css/poole.css">
+  <link rel="stylesheet" href="http://j-lemon.github.io/Punk_Overflow/css/syntax.css">
+  <link rel="stylesheet" href="http://j-lemon.github.io/Punk_Overflow/css/lanyon.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://j-lemon.github.io/Punk_Overflow/assets/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="http://j-lemon.github.io/Punk_Overflow/assets/favicon.ico">
+  
+
+  
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://j-lemon.github.io/Punk_Overflow/atom.xml">
+</head>
+
+
+  <body class="theme-base-09">
+
+    
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+	  <image src="http://j-lemon.github.io/Punk_Overflow/assets/Logo.png" alt="Logo" width="225" height="128">
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item " href="http://j-lemon.github.io/Punk_Overflow/">Home</a>
+    <a class="sidebar-nav-item " href="http://j-lemon.github.io/Punk_Overflow/post">Posts</a>
+
+    
+    
+      
+    
+      
+    
+      
+    
+      
+        <a class="sidebar-nav-item " href="http://j-lemon.github.io/Punk_Overflow/about/">About</a>
+      
+    
+  </nav>
+
+  <div class="sidebar-item">
+    <p>&copy; 2015. All rights reserved.</p>
+  </div>
+</div>
+
+
+    
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="http://j-lemon.github.io/Punk_Overflow/" title="Home">Punk Overflow!</a>
+            <br>
+            <small>Storie di un informatico con una crisi di nervi</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+
+
+<div class="post">
+  <h1 class="post-title">Compili, compili... Che le fà bene!</h1>
+  <span class="post-date">Feb 27 2015</span>
+  <p>Secondo post, WOW!<br>
+In più una news, oltre ad aver fatto delle piccole modifiche, ho fixato il problema del feed RSS che risultava inesistente.<br>
+Ora anche <a href="https://twitter.com/Stefanauss">Stefanauss</a> può leggermi!<br>
+Ok, torniamo In_topic.<br>
+Che sia un fan di tutto quello riguarda l&rsquo;informatica e la programmazione, ma, non sarei qui se non avessi un computer!
+Ottima osservazione o semplice banalità, a voi la scelta.
+Comunque oggi vi parlerò di uno delle mie fidate macchine, quella che di più uso e la stessa che mi ha seguito sempre senza fare mai troppe storie nelle mie avventure universitarie e non.<br>
+Lui è Crow, l&rsquo;ho chiamato così perché è un pò come il corvo che segue Eric Draven nel film &ldquo;Il Corvo&rdquo;, infatti senza di lui non farei tantissimo&hellip;<br>
+In questo ultimo periodo, grazie anche all&rsquo;interesse che abbiamo maturato io e un collega del corso (<a href="https://twitter.com/BestFrozenwolf">Frank</a> ti odio), ho deciso di installare FreeBsd.<br>
+Nonostante giri egregiamente (a parte qualche piccolo dettaglio&hellip;), l&rsquo;hardware della macchina non è il massimo, quindi il boot del kernel risultava essere abbastanza lentuccio<br>
+Così, per la prima volta nella mia vita ho fatto quello che molti evitano di fare, ovvero ricompilare il kernel! (Rumore di tuoni in sottofondo).<br>
+Letta la pagina della wiki di FreeBsd riguardo all&rsquo;argomento e capito cosa andava fatto ho subito esclamato &ldquo;Si Può FARE!!!&rdquo;(Rumore di tuoni in sottofondo, di nuovo) mentre che tutti mi guardavano scioccati.
+Ora tralasciando gli scherzi e le citazioni da &ldquo;Frankenstein Junior&rdquo;, ricompilare il kernel per migliorare le prestazioni è un&rsquo;ottima idea.
+Basti pensare che tutti i kernel delle derivate di BSD, ma anche della sua più famosa controparte Linux, sono monolitici, ovvero contengono in se tutti i moduli relativi al funzionamento di perficheriche anche quelle che non necessario all&rsquo;utente.<br>
+Ad esempio, il kernel contiene anche i moduli relativi alle porte HDMI, che si trasforma solo in zavorra se non abbiamo le suddette porte sul nostro PC.<br>
+Quindi il processo consiste nel eliminare tutti quei moduli che risulterebbero inutilizzati.<br>
+<br>
+Vediamo ora in dettaglio come procedere per ricompilare il Kernel:<br>
+<br>
+#Passo 1, eliminiamo quello che non ci serve:</p>
+
+</div>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'punkoverflow';
+    var disqus_identifier = 'http:\/\/j-lemon.github.io\/Punk_Overflow\/2015\/02\/27\/compili-compili...-che-le-f%C3%A0-bene\/';
+    var disqus_title = 'Compili, compili... Che le fà bene!';
+    var disqus_url = 'http:\/\/j-lemon.github.io\/Punk_Overflow\/2015\/02\/27\/compili-compili...-che-le-f%C3%A0-bene\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+  </body>
+</html>
+
