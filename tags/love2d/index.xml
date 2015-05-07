@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Punk Overflow!</title>
-    <link>https://j-lemon.github.io/Punk_Overflow/post/</link>
-    <description>Recent content in Posts on Punk Overflow!</description>
+    <title>Love2d on Punk Overflow!</title>
+    <link>https://j-lemon.github.io/Punk_Overflow/tags/love2d/</link>
+    <description>Recent content in Love2d on Punk Overflow!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     <lastBuildDate>Wed, 06 May 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://j-lemon.github.io/Punk_Overflow/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://j-lemon.github.io/Punk_Overflow/tags/love2d/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mario Meteo, ovvero, come rovinare la giornata a un povero italiano</title>
@@ -42,34 +42,6 @@ Lo sprite del sole è stato preso da un livello di Super Mario 3, precisamente q
 Comunque questo non è l&amp;rsquo;unico caso in cui in un gioco Nintendo ci sia un pianeta &amp;ldquo;corrucciato&amp;rdquo;, basti vedere che sguardo rassicurante che ha la luna in Majora Mask.&lt;/br&gt;
 &lt;/br&gt;&lt;/br&gt;
 Have Fun!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World in 100 linguaggi(se no il classico Hello World in C sarebbe troppo scontato)</title>
-      <link>https://j-lemon.github.io/Punk_Overflow/2015/02/18/hello-world-in-100-linguaggise-no-il-classico-hello-world-in-c-sarebbe-troppo-scontato/</link>
-      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://j-lemon.github.io/Punk_Overflow/2015/02/18/hello-world-in-100-linguaggise-no-il-classico-hello-world-in-c-sarebbe-troppo-scontato/</guid>
-      <description>&lt;p&gt;No, proprio non ci riesco&amp;hellip;&lt;br&gt;
-Credo che sia una difficoltà comune non sapere cosa scrivere nel primo post del proprio blog.&lt;br&gt;
-Ci penso ormai da ore a cosa scrivere, per cui, questo post finisce qui.&lt;br&gt;
-Un inizio non proprio spettacolare, lo so.&lt;br&gt;
-Questo primo articolo non è il massimo,  un po come tutte le serie televisive moderne dove i primi episodi non sono mai un granché, ma col passare del tempo riescono a stupire lo spettatore tenendolo incollato allo schermo.&lt;br&gt;
-Magari nei prossimi articoli riuscirò a stupirvi, o semplicemente finirà tutto fra altri due o tre articoli e questo blog finirà nel dimenticatoio :p&lt;br&gt;
-Staremo a vedere.&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;A già, dimenticavo, questo è un blog che parla di informatica, quindi dovrei iniziare col classico &amp;ldquo;Hello World&amp;rdquo; scritto in C o in un altro linguaggio, ma appunto essendo questa cosa stra abusata e scontata preferisco &lt;a href=&#34;https://github.com/mame/quine-relay&#34;&gt;linkarvi&lt;/a&gt; questo interessante script dalla dubbia utilità che converte un codice Ruby in altri 100 linguaggi per poi riconvertirlo in Ruby.&lt;/p&gt;
-
-&lt;p&gt;Quindi ricapitolando:&lt;/p&gt;
-
-&lt;p&gt;1)Abbiamo un blog che parte con un po di fiacca.&lt;br&gt;
-2)Il famigerato &amp;ldquo;hello world&amp;rdquo;
-    &lt;p&gt; puts &amp;lsquo;Hello World!&amp;rsquo;&lt;/p&gt;&lt;br&gt;
-3)E infine uno script che lo convertirà per 100 volte in linguaggi diversi.&lt;/p&gt;
-
-&lt;p&gt;Non male come inizio, non credete?&lt;br&gt;
-Divertitevi!&lt;/p&gt;
 </description>
     </item>
     
