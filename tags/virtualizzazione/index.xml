@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtualizzazione on Punk Overflow!</title>
+    <link>https://j-lemon.github.io/Punk_Overflow/tags/virtualizzazione/</link>
+    <description>Recent content in Virtualizzazione on Punk Overflow!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 02 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://j-lemon.github.io/Punk_Overflow/tags/virtualizzazione/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Io che parlo di virtualizzazione al Talent Garden Cosenza</title>
+      <link>https://j-lemon.github.io/Punk_Overflow/2015/07/02/io-che-parlo-di-virtualizzazione-al-talent-garden-cosenza/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-lemon.github.io/Punk_Overflow/2015/07/02/io-che-parlo-di-virtualizzazione-al-talent-garden-cosenza/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Ok, prossima seminario al TAG, cosa si fà?&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Questo è il tipico quesito che ci poniamo ogni mese in HLCS.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Tu hai scritto un articolo su Docker, vai a fare un seminario!&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Questo, invece, è la risposta al quesito del mese di Giugno.&lt;br&gt;&lt;br&gt;
+Così, il 23/06/2015, modularizzando il discorso in una combo teorico pratica, io e &lt;a href=&#34;https://twitter.com/Spax_arm&#34;&gt;Spax&lt;/a&gt; abbiamo tenuto il seminario su Docker e la virtualizzazione.&lt;/p&gt;
+
+&lt;p&gt;Potete vedere il video del dinamico duo in azione a questo &lt;a href=&#34;https://www.youtube.com/watch?v=pKUyaCoJchg&amp;amp;index=5&amp;amp;list=PLkbnRIR2azkKyfjh7Qii1PQzcMTJvHW4-&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vi chiedo solo di non tener troppo conto delle gaff che faccio nel video, è uno dei miei primi interventi, abbiate pietà.&lt;/p&gt;
+
+&lt;p&gt;In più vi lascio le &lt;a href=&#34;https://j-lemon.github.io/Punk_Overflow/Downloads/Docker-23-06-2015.pdf&#34;&gt;slide&lt;/a&gt; della mia parte del seminario come promesso.&lt;/p&gt;
+
+&lt;p&gt;And that&amp;rsquo;s all!&lt;br&gt;
+Have a fun!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
