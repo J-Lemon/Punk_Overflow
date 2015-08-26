@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on Punk Overflow!</title>
-    <link>https://j-lemon.github.io/Punk_Overflow/tags/golang/</link>
+    <link>//j-lemon.github.io/Punk_Overflow/tags/golang/</link>
     <description>Recent content in Golang on Punk Overflow!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Thu, 02 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://j-lemon.github.io/Punk_Overflow/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//j-lemon.github.io/Punk_Overflow/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Io che parlo di virtualizzazione al Talent Garden Cosenza</title>
-      <link>https://j-lemon.github.io/Punk_Overflow/2015/07/02/io-che-parlo-di-virtualizzazione-al-talent-garden-cosenza/</link>
+      <link>//j-lemon.github.io/Punk_Overflow/io-che-parlo-di-virtualizzazione-al-talent-garden-cosenza/</link>
       <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://j-lemon.github.io/Punk_Overflow/2015/07/02/io-che-parlo-di-virtualizzazione-al-talent-garden-cosenza/</guid>
+      <guid>//j-lemon.github.io/Punk_Overflow/io-che-parlo-di-virtualizzazione-al-talent-garden-cosenza/</guid>
       <description>&lt;p&gt;&lt;b&gt;Ok, prossimo seminario al TAG, cosa si fà?&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Questo è il tipico quesito che ci poniamo ogni mese in HLCS.&lt;/p&gt;
