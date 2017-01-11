@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mario on Punk Overflow!</title>
-    <link>//j-lemon.github.io/Punk_Overflow/tags/mario/</link>
+    <link>//j-lemon.github.io/Punk_Overflow/tags/mario/index.xml</link>
     <description>Recent content in Mario on Punk Overflow!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>All rights reserved - 2015</copyright>
-    <lastBuildDate>Wed, 06 May 2015 00:00:00 +0000</lastBuildDate>
+    <copyright>CC BY-NC-SA</copyright>
     <atom:link href="//j-lemon.github.io/Punk_Overflow/tags/mario/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -18,9 +17,9 @@
       <guid>//j-lemon.github.io/Punk_Overflow/mario-meteo-ovvero-come-rovinare-la-giornata-a-un-povero-italiano/</guid>
       <description>&lt;p&gt;No, non è come pensate, anche se nel titolo ci sono le parole &amp;ldquo;rovinare&amp;rdquo;, &amp;ldquo;giornata&amp;rdquo; e &amp;ldquo;italiano&amp;rdquo; questo articolo non parla di politica, ma lasciatemi partire dall&amp;rsquo;inizio.&lt;/br&gt;
 Questo 31 Marzo, come l&amp;rsquo;anno scorso, qui in sede, noi dell&amp;rsquo;&lt;a href=&#34;http://hlcs.it/&#34;&gt;HLCS&lt;/a&gt; abbiamo organizzato l&amp;rsquo;Arduino Day, evento atto a promuovere la nostrana scheda per la prototipazione elettronica.&lt;/br&gt;
-Anche io ho partecipato, nonstante il travagliato sviluppo della mia applicazione, anche più travagliato del film di Super Mario Bros.&lt;/br&gt;&lt;/p&gt;
+Anche io ho partecipato, nonstante il travagliato sviluppo della mia applicazione, anche più travagliato del film di Super Mario Bros.&lt;/br&gt;
 
-&lt;p&gt;Ed è propio Mario lo sfortunato &amp;ldquo;italiano&amp;rdquo; di questa vicenda.&lt;/br&gt;
+Ed è propio Mario lo sfortunato &amp;ldquo;italiano&amp;rdquo; di questa vicenda.&lt;/br&gt;
 Il mio &amp;ldquo;esperimento&amp;rdquo;, faccio fatica a chiamarlo così visto che fa sembrare Mario quasi una cavia, consiste nell&amp;rsquo;interazione fra Arduino e videogioco.&lt;/br&gt;
 Mi sono servito di un Arduino nano (precisamente la versione 3.1 con l&amp;rsquo;ATmega328) e una fotoresistenza per creare una semplice animazione.&lt;/br&gt;
 Se il sensore non è coperto nel mondo di Mario ci sarà bel tempo, altrimenti, garantiremo una bella doccia ghiacciata al nostro sfortunato idraulico baffuto.&lt;/br&gt;
@@ -41,8 +40,7 @@ Se volete testarlo con un Arduino assicuratevi di sostituire &lt;b&gt;&amp;rdquo
 Lo sprite del sole è stato preso da un livello di Super Mario 3, precisamente quello nel deserto, e tra l&amp;rsquo;altro credo che sia uno dei pochi giochi del baffuto dove viene mostrato il sole.&lt;/br&gt;
 Comunque questo non è l&amp;rsquo;unico caso in cui in un gioco Nintendo ci sia un pianeta &amp;ldquo;corrucciato&amp;rdquo;, basti vedere che sguardo rassicurante che ha la luna in Majora Mask.&lt;/br&gt;
 &lt;/br&gt;&lt;/br&gt;
-Have Fun!&lt;/p&gt;
-</description>
+Have Fun!&lt;/p&gt;</description>
     </item>
     
   </channel>

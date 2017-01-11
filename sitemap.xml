@@ -2,9 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>//j-lemon.github.io/Punk_Overflow/</loc>
-    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>//j-lemon.github.io/Punk_Overflow/about/</loc>
   </url>
   
   <url>
@@ -27,7 +25,133 @@
   </url>
   
   <url>
-    <loc>//j-lemon.github.io/Punk_Overflow/fixed/about/</loc>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/arduino/</loc>
+    <lastmod>2015-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/banzi/</loc>
+    <lastmod>2015-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/cosenza/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/day/</loc>
+    <lastmod>2015-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/docker/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/fixed/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/garden/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/go/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/golang/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/hlcs/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/love2d/</loc>
+    <lastmod>2015-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/lua/</loc>
+    <lastmod>2015-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/mario/</loc>
+    <lastmod>2015-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/massimo/</loc>
+    <lastmod>2015-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/nintendo/</loc>
+    <lastmod>2015-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/post/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/seminario/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/talent/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/virtualizzazione/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//j-lemon.github.io/Punk_Overflow/tags/zelda/</loc>
+    <lastmod>2015-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

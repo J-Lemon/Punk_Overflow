@@ -2,13 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Punk Overflow!</title>
-    <link>//j-lemon.github.io/Punk_Overflow/</link>
+    <link>//j-lemon.github.io/Punk_Overflow/index.xml</link>
     <description>Recent content on Punk Overflow!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>All rights reserved - 2015</copyright>
+    <copyright>CC BY-NC-SA</copyright>
     <lastBuildDate>Thu, 02 Jul 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="//j-lemon.github.io/Punk_Overflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>//j-lemon.github.io/Punk_Overflow/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//j-lemon.github.io/Punk_Overflow/about/</guid>
+      <description>
+
+&lt;!--&lt;center&gt;**Io ne ho viste cose che voi umani non potreste immaginarvi... (e continuo a vederne!)**&lt;/center&gt;--&gt;
+
+&lt;p&gt;Nato Pasquale De Rose e attualmente latitante sono un appassionato di informatica, di videogiochi e di tutto quello che viene esportato illegalmente dal Giappone.&lt;br&gt;
+Sono, più o meno, uno studente dell&amp;rsquo;Unical e residente, sia letteralmente che metaforicamente, dell&amp;rsquo;&lt;a href=&#34;http://hlcs.it&#34;&gt;HackLab Cosenza&lt;/a&gt;.&lt;br&gt;
+Questo blog è un contenitore di esperienze, vicissitudini e sfighe che mi capitano giornalmente e che voglio condividere con la rete.&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;puoi-trovarmi-su&#34;&gt;Puoi Trovarmi su:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/J-Lemon&#34;&gt;Profilo GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/pasquale-de-rose-628687136&#34;&gt;Profilo LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Io che parlo di virtualizzazione al Talent Garden Cosenza</title>
@@ -32,8 +57,7 @@ Così, il 23/06/2015, modularizzando il discorso in una combo teorico pratica, i
 &lt;p&gt;In più vi lascio le &lt;a href=&#34;https://j-lemon.github.io/Punk_Overflow/Downloads/Docker-23-06-2015.pdf&#34;&gt;slide&lt;/a&gt; della mia parte del seminario come promesso.&lt;/p&gt;
 
 &lt;p&gt;And that&amp;rsquo;s all!&lt;br&gt;
-Have a fun!&lt;/p&gt;
-</description>
+Have a fun!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,9 +68,9 @@ Have a fun!&lt;/p&gt;
       <guid>//j-lemon.github.io/Punk_Overflow/mario-meteo-ovvero-come-rovinare-la-giornata-a-un-povero-italiano/</guid>
       <description>&lt;p&gt;No, non è come pensate, anche se nel titolo ci sono le parole &amp;ldquo;rovinare&amp;rdquo;, &amp;ldquo;giornata&amp;rdquo; e &amp;ldquo;italiano&amp;rdquo; questo articolo non parla di politica, ma lasciatemi partire dall&amp;rsquo;inizio.&lt;/br&gt;
 Questo 31 Marzo, come l&amp;rsquo;anno scorso, qui in sede, noi dell&amp;rsquo;&lt;a href=&#34;http://hlcs.it/&#34;&gt;HLCS&lt;/a&gt; abbiamo organizzato l&amp;rsquo;Arduino Day, evento atto a promuovere la nostrana scheda per la prototipazione elettronica.&lt;/br&gt;
-Anche io ho partecipato, nonstante il travagliato sviluppo della mia applicazione, anche più travagliato del film di Super Mario Bros.&lt;/br&gt;&lt;/p&gt;
+Anche io ho partecipato, nonstante il travagliato sviluppo della mia applicazione, anche più travagliato del film di Super Mario Bros.&lt;/br&gt;
 
-&lt;p&gt;Ed è propio Mario lo sfortunato &amp;ldquo;italiano&amp;rdquo; di questa vicenda.&lt;/br&gt;
+Ed è propio Mario lo sfortunato &amp;ldquo;italiano&amp;rdquo; di questa vicenda.&lt;/br&gt;
 Il mio &amp;ldquo;esperimento&amp;rdquo;, faccio fatica a chiamarlo così visto che fa sembrare Mario quasi una cavia, consiste nell&amp;rsquo;interazione fra Arduino e videogioco.&lt;/br&gt;
 Mi sono servito di un Arduino nano (precisamente la versione 3.1 con l&amp;rsquo;ATmega328) e una fotoresistenza per creare una semplice animazione.&lt;/br&gt;
 Se il sensore non è coperto nel mondo di Mario ci sarà bel tempo, altrimenti, garantiremo una bella doccia ghiacciata al nostro sfortunato idraulico baffuto.&lt;/br&gt;
@@ -67,8 +91,7 @@ Se volete testarlo con un Arduino assicuratevi di sostituire &lt;b&gt;&amp;rdquo
 Lo sprite del sole è stato preso da un livello di Super Mario 3, precisamente quello nel deserto, e tra l&amp;rsquo;altro credo che sia uno dei pochi giochi del baffuto dove viene mostrato il sole.&lt;/br&gt;
 Comunque questo non è l&amp;rsquo;unico caso in cui in un gioco Nintendo ci sia un pianeta &amp;ldquo;corrucciato&amp;rdquo;, basti vedere che sguardo rassicurante che ha la luna in Majora Mask.&lt;/br&gt;
 &lt;/br&gt;&lt;/br&gt;
-Have Fun!&lt;/p&gt;
-</description>
+Have Fun!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -95,8 +118,7 @@ Staremo a vedere.&lt;br&gt;&lt;/p&gt;
 3)E infine uno script che lo convertirà per 100 volte in linguaggi diversi.&lt;/p&gt;
 
 &lt;p&gt;Non male come inizio, non credete?&lt;br&gt;
-Divertitevi!&lt;/p&gt;
-</description>
+Divertitevi!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -106,33 +128,6 @@ Divertitevi!&lt;/p&gt;
       
       <guid>//j-lemon.github.io/Punk_Overflow/fixed/404/</guid>
       <description>&lt;p&gt;Sorry, we&amp;rsquo;ve misplaced that URL or it&amp;rsquo;s pointing to something that doesn&amp;rsquo;t exist. &lt;a href=&#34;//j-lemon.github.io/Punk_Overflow/&#34;&gt;Head back home&lt;/a&gt; to try finding it again.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>//j-lemon.github.io/Punk_Overflow/fixed/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//j-lemon.github.io/Punk_Overflow/fixed/about/</guid>
-      <description>
-
-&lt;p class=&#34;message&#34;&gt;
-  Io ne ho viste cose che voi umani non potreste immaginarvi... (e continuo a vederne!)
-&lt;/p&gt;
-
-&lt;p&gt;Salve a tutti, sono Pasquale, sulla rete conosciuto come J-Lemon.&lt;br&gt;
-Sono un appassionato e studioso (più o meno) di Informatica all&amp;rsquo;università della Calabria.&lt;br&gt;
-Oltre a questo, nel tempo libero, mi piace sperimentare e scrivere su tutto quello che riguarda l&amp;rsquo;informatica e dintorni.&lt;br&gt;
-Insomma questo blog è un contenitore di esperienze, vicissitudini e sfighe che mi capitano giornalmente e che voglio condividere con la rete.
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;puoi-trovarmi-su:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Puoi Trovarmi su:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/J-Lemon&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hlcs.it&#34;&gt;Hlcs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
